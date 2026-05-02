@@ -1,2 +1,3 @@
 # income-analysis
-Income analysis of every month
+Income analysis of a user's salary and generating possible savings, emergency savings,investments and suggestion
+
